@@ -7,5 +7,5 @@ You can add your tasks with title, priority and deadline in it.
 
 It shows tasks based on highest priority to you but it doesn't save it for next run.
 
-Hope you enjoy it :)
+Hope you'd like it :)
 
