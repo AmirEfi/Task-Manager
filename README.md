@@ -1,5 +1,5 @@
 # Task-Manager
-Final Project of Introduction to Programming Course - Fall 2020
+## Final Project of Introduction to Programming Course - Fall 2020
 
 This is my final project in ITP course.
 
